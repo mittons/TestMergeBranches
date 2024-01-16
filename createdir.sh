@@ -1,4 +1,4 @@
-COMMIT_NAME='K'
+COMMIT_NAME='L'
 
 mkdir $COMMIT_NAME
 echo "commit ${COMMIT_NAME}" > $COMMIT_NAME/README.md

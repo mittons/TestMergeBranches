@@ -13,3 +13,12 @@ commit_message="MERGE FROM STAGING: $latest_commit_message"
 
 # Commit with the new message
 git commit -m "$commit_message"
+
+# Push to commits to main
+git push origin main
+
+# Go back to staging
+git checkout staging
+# Merge and push, the squashed commit we created in main, into staging history.
+git merge main
+git push origin staging

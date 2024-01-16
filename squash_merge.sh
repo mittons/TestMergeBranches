@@ -4,7 +4,7 @@
 git checkout staging
 latest_commit_message=$(git log -1 --pretty=%B)
 
-# Checkout the main branch and perform a squash merge
+# Checkout the main branch and perform a squash merge, favoring changes from staging in merge conflicts.
 git checkout main
 git merge -X theirs --squash staging
 

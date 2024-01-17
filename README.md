@@ -23,9 +23,9 @@ This project is licensed under the [UNLICENSE LICENSE](LICENSE) - see the file f
 
     Essentially, the entire project, except for the Appendix and its related data, was human-generated.
     - The introductory text of the Appendix is completely AI-generated, based entirely on human input, and was created after the more detailed section of the Appendix.
-    - The detailed section of the Appendix was completely human-generated. Some intermediate steps were entirely AI-generated. [See Raw State Description Data Index](version_2_ai_refined_code/raw_data/README.md).
+    - The detailed section of the Appendix was completely human-generated. Some intermediate steps were entirely AI-generated. [See Raw State Description Data Index](generate_state_description_scripts/version_2_ai_refined_code/raw_data/README.md).
     - The scripts for generating the detailed section of the Appendix were initially human-generated, in collaboration with AI. [See folder with human-generated scripts](generate_state_description_scripts/version_1_quick_n_dirty_human_code).
-    - Post-execution, these scripts were refined with AI assistance, turning them into AI-generated content. [See folder with AI-refined scripts](generate_state_description_scripts/version_1_quick_n_dirty_human_code).
+    - Post-execution, these scripts were refined with AI assistance, turning them into AI-generated content. [See folder with AI-refined scripts](generate_state_description_scripts/version_2_ai_refined_code).
     - Bottom line: Collaboration with other entities that provide service, whether human or AI, is amazing, beneficial, and enriching!
     </details>
     &nbsp; 
